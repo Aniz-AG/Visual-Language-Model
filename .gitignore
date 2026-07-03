@@ -1,0 +1,16 @@
+__pycache__/
+.venv/
+venv/
+
+temp_rio/
+
+evaluation_results.csv
+eval_res_1.csv
+
+input.jpeg_full_run_log.txt
+input.jpeg_raw_outputs.csv
+
+task_runner_full_run_log.txt
+task_runner_raw_outputs.csv
+
+models/
